@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "388561439855",
+    "firebase_url": "https://redapp-4000d.firebaseio.com",
+    "project_id": "redapp-4000d",
+    "storage_bucket": "redapp-4000d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388561439855:android:7cc5bc4c65def0b0",
+        "android_client_info": {
+          "package_name": "com.magasid.redapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388561439855-94f0cf4fh3onapke7obmuetv81d36qj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magasid.redapp",
+            "certificate_hash": "95c5878ed995c0c021c80c9e1ed79794a3a9f649"
+          }
+        },
+        {
+          "client_id": "388561439855-ar72v6v4p0lb6do88li8ag4o00jsm9hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmT_FvMOWez1-WWneiORIbSdJnODzI6r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388561439855-ar72v6v4p0lb6do88li8ag4o00jsm9hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
